@@ -289,7 +289,7 @@ curl -X POST http://localhost:8000/evaluations/1/override \
      -d '{"new_score": 78, "new_recommendation": "Shortlist", "reason": "Promoted based on portfolio quality"}'
 ```
 
-### C · CLI demo on bundled samples
+### C · CLI demo on bundled samplesx
 
 ```bash
 python app.py demo
@@ -344,16 +344,7 @@ A full evaluation JSON looks like:
 
 ---
 
-## 12 · Screenshots
 
-> Drop your generated screenshots into `screenshots/` and they will render here.
-
-| | |
-|---|---|
-| ![Upload](screenshots/01-upload.png) | ![Leaderboard](screenshots/02-leaderboard.png) |
-| ![Candidate detail](screenshots/03-candidate.png) | ![PDF report](screenshots/04-pdf.png) |
-
----
 
 ## 13 · Demo Workflow
 
@@ -379,11 +370,7 @@ A full evaluation JSON looks like:
 
 ---
 
-## 15 · License
 
-MIT — see [`LICENSE`](LICENSE).
-
----
 
 ### Built by an engineer who cares about ethics in AI hiring.
 
