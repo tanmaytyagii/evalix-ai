@@ -1,0 +1,39 @@
+Name: Aisha Rao
+Email: aisha.rao@example.com
+Phone: +91 98123 45678
+Location: Bengaluru, IN
+
+Summary
+ML engineer with 3 years of experience building and shipping production NLP systems.
+Passionate about LLM evaluation pipelines and clean backend architecture. Reduced inference
+cost by 42% on a flagship product through quantisation + batched serving.
+
+Skills
+Python, FastAPI, PyTorch, TensorFlow, scikit-learn, SQL, PostgreSQL, Docker, AWS (S3, ECR, ECS),
+Git, GitHub Actions, REST APIs, NLP, LLM evaluation, RAG, FAISS, Streamlit
+
+Tools
+LangChain, OpenAI API, HuggingFace, MLflow, Weights & Biases
+
+Experience
+Senior ML Engineer at Northwind AI Labs — Jan 2023 – present
+- Designed and shipped 6 ML APIs serving 80M+ requests / month
+- Built evaluation harness measuring 11 quality dimensions for our LLM gateway
+- Mentored 2 juniors; led ML readiness reviews
+
+ML Engineer at TextLoom — Aug 2021 – Dec 2022
+- Built NER + intent classification microservices in FastAPI; 99.95% uptime
+- Owned model retraining pipeline (Airflow + S3 + Sagemaker)
+
+Projects
+LLM Evaluation Harness — open-source toolkit for ranking 7 LLMs across 4 task families.
+  Tech: Python, FastAPI, Streamlit, OpenAI API, sentence-transformers
+RAG Knowledge Bot — internal Slack bot answering policy questions over 8K docs.
+  Tech: FAISS, LangChain, FastAPI, Postgres
+
+Education
+B.Tech in Computer Science, IIT Madras, 2021 — CGPA 8.9
+
+Certifications
+- AWS Certified ML Specialty (2023)
+- DeepLearning.AI NLP Specialisation

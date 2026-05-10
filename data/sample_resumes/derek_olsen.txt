@@ -1,0 +1,26 @@
+Name: Derek Olsen
+Email: derek.olsen@example.com
+Phone: 555-410-2233
+
+Summary
+Frontend engineer pivoting toward backend. 2 years of React experience and a few months of
+Python tinkering. Currently learning ML through online courses.
+
+Skills
+JavaScript, TypeScript, React, Next.js, HTML, CSS, Node.js, Python, Git
+
+Experience
+Frontend Engineer at PixelForge — Jan 2023 – present
+- Built component library used across 4 SaaS products
+- Implemented analytics dashboards in React + D3
+
+Junior Frontend Developer at Webwise — Aug 2021 – Dec 2022
+- Maintained marketing sites; improved Lighthouse scores from 64 → 92
+
+Projects
+PortfolioPro — drag-and-drop résumé builder.
+  Tech: Next.js, Supabase, Tailwind
+WeatherDash — small weather visualiser.
+
+Education
+B.A. in Communications, University of Washington, 2021

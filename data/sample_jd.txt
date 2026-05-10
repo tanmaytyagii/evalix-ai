@@ -1,0 +1,31 @@
+Job Title: AI/ML Engineer (Backend-Focused)
+Company: Northwind AI Labs
+Location: Bengaluru, India (Hybrid)
+Employment Type: Full-time
+
+About the role
+We are looking for a passionate ML engineer with 2+ years of experience building production-grade
+ML systems. You will own the full lifecycle of model deployment — from training pipelines to
+serving APIs that power our enterprise customers.
+
+Required Skills:
+- Python, FastAPI, REST APIs
+- Machine Learning, Deep Learning, NLP
+- SQL, PostgreSQL
+- Docker, AWS
+- Git, CI/CD
+
+Preferred Skills:
+- LLMs, RAG pipelines, vector databases (FAISS / Chroma / Pinecone)
+- Kubernetes, Terraform
+- Streamlit / front-end prototyping
+
+Responsibilities:
+- Design + ship ML APIs to production
+- Build evaluation harnesses for model quality
+- Collaborate with data + product teams
+- Mentor junior engineers
+
+Education: B.Tech / M.Tech in CS / related field
+
+Certifications (nice-to-have): AWS ML Specialty, GCP ML Engineer

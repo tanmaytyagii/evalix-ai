@@ -1,0 +1,37 @@
+Name: Priya Iyer
+Email: priya.iyer@example.com
+Phone: +91 91234 56789
+Location: Pune, IN
+
+Summary
+Final-year B.Tech student with strong fundamentals in ML and a deep love for NLP. Built three
+substantial side-projects, completed two internships at YC-backed startups, and write a small
+ML newsletter (~3K subscribers).
+
+Skills
+Python, NumPy, Pandas, scikit-learn, PyTorch, NLP, FastAPI, SQL, Git
+
+Tools
+Jupyter, Colab, HuggingFace, Streamlit
+
+Experience
+ML Intern at Loop AI — May 2024 – Aug 2024
+- Trained sentence-classification models for an enterprise tagging product
+- Wrote a fastapi serving layer + redis cache; cut latency 4x
+
+Data Science Intern at Brewlytics — Jun 2023 – Aug 2023
+- Built churn prediction model — AUC 0.83 — deployed via Streamlit
+
+Projects
+ResumeRanker — Streamlit app that ranks resumes against a JD using TF-IDF + cosine sim.
+  Tech: Python, scikit-learn, Streamlit, FastAPI
+NewsBriefer — extractive summariser for tech news; pinned at #2 on r/MachineLearning.
+  Tech: PyTorch, HuggingFace, FastAPI
+ChessBlunderBot — neural classifier flagging blunders in PGN games.
+  Tech: PyTorch, Python
+
+Education
+B.Tech in CSE, COEP Pune, 2025 (expected) — CGPA 9.2
+
+Certifications
+- Coursera Deep Learning Specialisation

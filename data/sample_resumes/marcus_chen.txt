@@ -1,0 +1,36 @@
+Name: Marcus Chen
+Email: marcus.chen@example.com
+Phone: (415) 555-0184
+
+Summary
+Backend engineer with 4 years of experience designing high-throughput Python services. Recently
+moved into ML-adjacent work — productionising recommendation models at a fintech.
+
+Skills
+Python, FastAPI, Flask, REST APIs, gRPC, SQL, PostgreSQL, MongoDB, Redis, Docker, AWS, GCP,
+Kubernetes, Terraform, Git, CI/CD, Linux, Kafka
+
+Tools
+Datadog, Sentry, Grafana, Prometheus
+
+Experience
+Senior Backend Engineer at FinPath — Mar 2022 – present
+- Designed payments orchestration service in Python/FastAPI handling 4K rps
+- Productionised an XGBoost recommendation model behind a Python service
+- Owned migration from EC2 to EKS — saved $11K / month in infra costs
+
+Backend Engineer at Quikscale — Jul 2020 – Feb 2022
+- Built REST + gRPC services for a B2B SaaS analytics platform
+- Implemented 96% test coverage; cut p99 latency by 38%
+
+Projects
+RecsysLite — minimal recommendation engine for indie e-commerce stores.
+  Tech: Python, FastAPI, Postgres, Docker
+HelmDeploy — open-source CLI for one-shot Helm + Terraform deploys.
+
+Education
+B.Eng in Software Engineering, NUS, 2020
+
+Certifications
+- AWS Certified Solutions Architect — Associate (2022)
+- HashiCorp Certified Terraform Associate
