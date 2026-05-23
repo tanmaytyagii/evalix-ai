@@ -152,34 +152,45 @@ with st.sidebar:
 st.markdown(
     """
 <div class="hero">
-  <div class="hero-content">
-      <h1><span class="gradient-text">Evalix AI</span> Candidate Evaluation</h1>
-      <p>Automate resume parsing, perform semantic matching against job requirements, and generate unbiased, rubric-based technical scoring in seconds.</p>
+  <div class="hero-orb hero-orb-violet" aria-hidden="true"></div>
+  <div class="hero-orb hero-orb-cyan" aria-hidden="true"></div>
+  <div class="hero-orb hero-orb-blue" aria-hidden="true"></div>
+  <div class="hero-noise" aria-hidden="true"></div>
+  <div class="hero-border-glow" aria-hidden="true"></div>
+  <div class="hero-inner">
+    <div class="hero-content">
+      <h1 class="hero-title">
+        <span class="gradient-text hero-brand">Evalix AI</span>
+        <span class="hero-title-rest">Candidate Evaluation</span>
+      </h1>
+      <p class="hero-desc">Automate resume parsing, perform semantic matching against job requirements, and generate unbiased, rubric-based technical scoring in seconds.</p>
       <div class="hero-badges">
-          <span class="hero-badge">⚡️ 10x Faster Screening</span>
-          <span class="hero-badge">🛡 Bias Masking Enabled</span>
-          <span class="hero-badge">📊 Explainable AI</span>
+        <span class="hero-badge hero-badge-speed"><span class="hero-badge-icon" aria-hidden="true">⚡️</span>10x Faster Screening</span>
+        <span class="hero-badge hero-badge-shield"><span class="hero-badge-icon" aria-hidden="true">🛡</span>Bias Masking Enabled</span>
+        <span class="hero-badge hero-badge-chart"><span class="hero-badge-icon" aria-hidden="true">📊</span>Explainable AI</span>
       </div>
-  </div>
-  <div class="hero-illustration">
-      <div class="illust-bg-glow"></div>
+    </div>
+    <div class="hero-illustration">
+      <div class="illust-bg-glow" aria-hidden="true"></div>
+      <div class="illust-ring" aria-hidden="true"></div>
       <div class="illust-resume">
-          <div class="illust-header">
-              <div class="illust-avatar"></div>
-              <div class="illust-lines">
-                  <div class="illust-line w-1"></div>
-                  <div class="illust-line w-2"></div>
-              </div>
+        <div class="illust-header">
+          <div class="illust-avatar"></div>
+          <div class="illust-lines">
+            <div class="illust-line w-1"></div>
+            <div class="illust-line w-2"></div>
           </div>
-          <div class="illust-stars">★★★★☆</div>
-          <div class="illust-lines mt">
-              <div class="illust-line w-3"></div>
-              <div class="illust-line w-1"></div>
-          </div>
-          <div class="illust-badge">
-             <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"></polyline></svg>
-          </div>
+        </div>
+        <div class="illust-stars">★★★★☆</div>
+        <div class="illust-lines mt">
+          <div class="illust-line w-3"></div>
+          <div class="illust-line w-1"></div>
+        </div>
+        <div class="illust-badge">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"></polyline></svg>
+        </div>
       </div>
+    </div>
   </div>
 </div>
 """,
